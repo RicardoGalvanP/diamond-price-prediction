@@ -3,6 +3,12 @@
 Regression model to predict diamond prices based on physical and qualitative 
 characteristics, using Linear Regression and polynomial feature engineering.
 
+### Version
+
+*en: English
+
+*es: Spanish
+
 ## Problem Statement
 
 Diamond pricing is influenced by multiple interacting features — carat, cut, color, 
